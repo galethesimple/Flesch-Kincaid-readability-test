@@ -3,6 +3,10 @@ Flesch-Kincaid-readability-test
 
 CS 122 - Flesch-Kincaid readability test
 
+Requirements listed at:
+
+http://craie-programming.org/122/projects/diffrate.html
+
 This program is supposed to a simple Flesch readability check from the file provided by the user.
 
 Since it is a simplified readability test, several assumptions were made:
